@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        getSupportActionBar().setTitle("ToDo");
+        getSupportActionBar().setTitle("Simple To Do");
 
         // Mock data
         items = new ArrayList<>();
